@@ -1,0 +1,11 @@
+[package]
+name = "freight"
+version = "0.0.0"
+authors = ["Bernhard Schuster <bernhard@ahoi.io>"]
+license = "MIT OR Apache-2.0"
+description = "something that uses parts of railcar to do container stuff"
+keywords = ["railcar", "oci", "container"]
+repository = "https://github.com/drahnr/freight"
+homepage = "https://github.com/drahnr/freight"
+
+[dependencies]
